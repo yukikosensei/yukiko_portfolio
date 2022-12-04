@@ -30,4 +30,11 @@
 # available at https://guides.rubyonrails.org/i18n.html.
 
 en:
-  hello: "Hello world"
+  pages:
+    index:
+      introduction:
+        1: "I'm a programmer and currently live in Montreal, Canada. Previous job was a Japanese teacher."
+        2: "Because of covid, I had a lot of time at home and I started learning programming and I like it!"
+        3: "I like learning new things."
+      education: "Chemistry Major, Kumamoto University, Japan"
+      experience: "Developper June, 2021 - NOW"
